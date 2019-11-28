@@ -1,6 +1,6 @@
 # Petrona
 
-In Progress
+The Petrona font family is currently being built as a Variable Font, composed of a Roman and Italic, Latin Expert, supporting 222 languages. Masters: Roman Default, Roman Weight Min, Roman Weight Max, Italic Default, Italic Weight Min, Italic Weight Max. Instances: Roman 100 to 900,  Italic 100 to  900. Font Axes: Weight.
 
 ![sample of fonts in use](Proofs/PDFs/Specimens/ProofWIPSpecimenHorizPetrona1.jpg)
 
