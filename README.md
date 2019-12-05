@@ -10,7 +10,7 @@ Instances: Roman 100 to 900, Italic 100 to 900.
 
 Font Axes: Weight. 
 
-THE NEXT "WORK IN PROGRESS" VERSION WILL INCLUDE: 
+# THE NEXT "WORK IN PROGRESS" VERSION WILL INCLUDE: 
 Complete set of Italics.
 
 
