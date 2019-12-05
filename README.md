@@ -10,7 +10,6 @@ Instances: Roman 100 to 900, Italic 100 to 900.
 
 Font Axes: Weight. 
 
-–––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 
 ![sample of fonts in use](Proofs/PDFs/Specimens/ProofWIPSpecimenHorizPetrona1.jpg)
