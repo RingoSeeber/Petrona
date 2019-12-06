@@ -12,7 +12,7 @@ Font Axes: Weight.
 
 
 
-![sample of fonts in use](Proofs/PDFs/Specimens/ProofWIPSpecimenHorizPetrona1.jpg)
+![sample of fonts in use](Proofs/PDF&JPG/ProofWIPSpecimenHorizPetronaHomeGH.jpg)
 
 
 # Description 
