@@ -2,7 +2,9 @@
 
 Petrona is as a Variable Font.
 
-Composed of a Roman and Italic, Latin Expert, supporting 222 languages. 
+Composed of a Roman and Italic.
+
+Latin Expert. 
 
 Masters: Roman Default, Roman Weight Min, Roman Weight Max, Italic Default, Italic Weight Min, Italic Weight Max.
 
