@@ -1,23 +1,27 @@
-# Petrona Font Family
+# Petrona Font Family 
 
-The Petrona Font Family is currently being built as a Variable Font. 
+Petrona is as a Variable Font.
 
-Composed of a Roman and Italic, Latin Expert, supporting 222 languages. 
+Composed of a Roman and Italic.
 
-Masters: Roman Default, Roman Weight Min, Roman Weight Max, Italic Default, Italic Weight Min, Italic Weight Max. 
+Latin Expert. 
 
-Instances: Roman 100 to 900, Italic 100 to 900. 
+Masters: Roman Default, Roman Weight Min, Roman Weight Max, Italic Default, Italic Weight Min, Italic Weight Max.
 
-Font Axes: Weight. 
+Instances: Roman 100 to 900, Italic 100 to 900.
 
+Font Axes: Weight.
 
+Stage: Testing. Implementation.
 
-![sample of fonts in use](Proofs/PDF&JPG/ProofWIPSpecimenHorizPetronaHomeGH.jpg)
+![sample of fonts in use](Proofs/PDF&JPG/ProofWIPPetronaSpecimenHoriz-1.jpg)
+![sample of fonts in use](Proofs/PDF&JPG/ProofWIPPetronaSpecimenHoriz-2.jpg)
 
 
 ## Description 
 
-How many characteristics is it possible to add to a font, without modifying its text-type genre? Petrona is inspired by every home's cook, who playfully maneuvers ingredients and decors with a personal touch, without derailing from an original recipe. This font has been created “in the kitchen,” with sharp elements that forge its structure as well as gestural strokes for softer finishing touches. Isolated, its glyphs are just like ingredients. Caps with heavy asymmetric serifs and arms of inverted angles, for a sharp flavor. Lower cases with big x-height, pronounced ascenders, and soft curves of low contrast, for a complementary flavor. When forming a word like in a headline, the fusion of these different ingredients offer a distinctive note. And they harmonically mingle into a paragraph, with a new visual menu proposed by the text. Petrona has all the characteristics of a font for editorial use, from headlines to paragraphs. It’s intended to be applied in pages with texts, and also in pages with tabular organizations, like designs with recipes, ingredients, quantities, or similar structures. This is why connoisseurs recommend it for culinary texts. But taste and creativity are personal, for which each one will apply it according to their preference. Awards/Accomplishments: Tipos Latinos. 
+How many characteristics can possibly be added to a font without undermining its purpose within the text-type genre? Petrona is inspired by the cook in every home, who playfully maneuvers ingredients with personal touches, without losing the essence of the original recipe. This font has been created “in the kitchen,” with sharp elements that forge its structure as well as gestural strokes for softer finishing touches. Isolated, its glyphs are just like ingredients. Caps with heavy asymmetric serifs and arms of inverted angles combine for a sharp flavor. Lower cases with big x-height, pronounced ascenders, and soft curves of low contrast provide a complementary aesthetic. When forming words like headlines, the fusion of these different ingredients offers distinctive notes. And, they harmonically mingle into paragraphs with a new visual menu proposed by the text. Petrona has all the characteristics of a font for editorial use, from headlines to running text. It is intended to be applied in pages with texts, and also in pages with tabular organizations, like designs with recipes, ingredients, quantities, or similar structures. This is why connoisseurs recommend it for culinary texts. However, since taste and creativity are personal, Petrona offers the freedom for any person to apply it according to their individual preferences. Awards/Accomplishments: Tipos Latinos. 
 
-# The next W.I.P. version will include: 
-Complete set of Italics (reviewing Black Italic).
+![sample of fonts in use](Proofs/PDF&JPG/ProofWIPPetronaSpecimenVert-2.jpg)
+![sample of fonts in use](Proofs/PDF&JPG/ProofWIPPetronaSpecimenVert-6.jpg)
+![sample of fonts in use](Proofs/PDF&JPG/ProofWIPPetronaSpecimenVert-9.jpg)
