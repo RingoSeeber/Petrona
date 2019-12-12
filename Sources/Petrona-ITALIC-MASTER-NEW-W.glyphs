@@ -902,15 +902,6 @@ value = -270;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 32;
-}
-);
 }
 );
 descender = -270;
@@ -999,15 +990,6 @@ value = -270;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 82;
-}
-);
 }
 );
 descender = -270;
@@ -1073,15 +1055,6 @@ value = -270;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 180;
-}
-);
 }
 );
 descender = -270;
@@ -102007,10 +101980,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--hinting-range-min=7 --hinting-range-max=30 --hinting-limit=32 --increase-x-height=18 --fallback-stem-width=32 --ignore-restrictions";
-},
-{
-name = weightClass;
-value = 100;
 }
 );
 interpolationWeight = 32;
@@ -102027,10 +101996,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--hinting-range-min=7 --hinting-range-max=30 --hinting-limit=32 --increase-x-height=18 --fallback-stem-width=40 --ignore-restrictions";
-},
-{
-name = weightClass;
-value = 200;
 }
 );
 interpolationWeight = 40;
@@ -102048,10 +102013,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--hinting-range-min=7 --hinting-range-max=30 --hinting-limit=32 --increase-x-height=18 --fallback-stem-width=49 --ignore-restrictions";
-},
-{
-name = weightClass;
-value = 300;
 }
 );
 interpolationWeight = 49;
@@ -102069,10 +102030,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--hinting-range-min=7 --hinting-range-max=30 --hinting-limit=32 --increase-x-height=18 --fallback-stem-width=61 --ignore-restrictions";
-},
-{
-name = weightClass;
-value = 400;
 }
 );
 interpolationWeight = 61;
@@ -102088,10 +102045,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--hinting-range-min=7 --hinting-range-max=30 --hinting-limit=32 --increase-x-height=18 --fallback-stem-width=76 --ignore-restrictions";
-},
-{
-name = weightClass;
-value = 500;
 }
 );
 interpolationWeight = 76;
@@ -102109,10 +102062,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--hinting-range-min=7 --hinting-range-max=30 --hinting-limit=32 --increase-x-height=18 --fallback-stem-width=94 --ignore-restrictions";
-},
-{
-name = weightClass;
-value = 600;
 }
 );
 interpolationWeight = 94;
@@ -102130,10 +102079,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--hinting-range-min=7 --hinting-range-max=30 --hinting-limit=32 --increase-x-height=18 --fallback-stem-width=117 --ignore-restrictions";
-},
-{
-name = weightClass;
-value = 700;
 }
 );
 interpolationWeight = 117;
@@ -102151,10 +102096,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--hinting-range-min=7 --hinting-range-max=30 --hinting-limit=32 --increase-x-height=18 --fallback-stem-width=145 --ignore-restrictions";
-},
-{
-name = weightClass;
-value = 800;
 }
 );
 interpolationWeight = 145;
@@ -102172,10 +102113,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--hinting-range-min=7 --hinting-range-max=30 --hinting-limit=32 --increase-x-height=18 --fallback-stem-width=180 --ignore-restrictions";
-},
-{
-name = weightClass;
-value = 900;
 }
 );
 interpolationWeight = 180;
