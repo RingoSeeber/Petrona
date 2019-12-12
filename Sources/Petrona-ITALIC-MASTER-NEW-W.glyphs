@@ -866,7 +866,7 @@ alignmentZones = (
 );
 ascender = 858;
 capHeight = 641;
-custom = "Extra-Italic";
+custom = "Thin Italic";
 customParameters = (
 {
 name = typoAscender;
@@ -920,9 +920,9 @@ horizontalStems = (
 26,
 29
 );
+iconName = Light;
 id = "E1BF09ED-4302-4AD3-9939-8FDA35DE0FE8";
 italicAngle = 9;
-name = "ExtraLight-Italic";
 userData = {
 GSOffsetAutoStroke = 1;
 GSOffsetHorizontal = -9;
@@ -938,7 +938,6 @@ verticalStems = (
 36,
 39
 );
-weight = Light;
 weightValue = 32;
 xHeight = 443;
 },
@@ -953,7 +952,7 @@ alignmentZones = (
 );
 ascender = 858;
 capHeight = 641;
-custom = Italic;
+custom = "Medium Italic";
 customParameters = (
 {
 name = typoAscender;
@@ -1002,7 +1001,6 @@ verticalStems = (
 89
 );
 weightValue = 76;
-widthValue = 100;
 xHeight = 443;
 },
 {
@@ -1016,7 +1014,7 @@ alignmentZones = (
 );
 ascender = 858;
 capHeight = 641;
-custom = "Black-Italic";
+custom = "Black Italic";
 customParameters = (
 {
 name = typoAscender;
