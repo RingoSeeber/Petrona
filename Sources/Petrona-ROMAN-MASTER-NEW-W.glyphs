@@ -73,7 +73,7 @@ name = variableFileName;
 value = "Petrona[wgth]";
 }
 );
-date = "2019-10-28 00:59:44 +0000";
+date = "2019-12-12 11:55:31 +0000";
 designer = "Ringo R. Seeber";
 designerURL = "https://www.glyph.nyc/";
 disablesNiceNames = 1;
@@ -101931,5 +101931,5 @@ type = glyphList;
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }
