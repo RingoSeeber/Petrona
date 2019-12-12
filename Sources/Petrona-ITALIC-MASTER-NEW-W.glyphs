@@ -1,8 +1,8 @@
 {
 .appVersion = "1271";
 DisplayStrings = (
-a,
-"/peso"
+"/_part.currencybar",
+"P/peso"
 );
 classes = (
 {
@@ -942,7 +942,6 @@ verticalStems = (
 36,
 39
 );
-visible = 1;
 weight = Light;
 weightValue = 32;
 xHeight = 443;
@@ -74775,6 +74774,57 @@ nodes = (
 }
 );
 width = 589.96;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{240, 0}";
+},
+{
+name = top;
+position = "{339, 641}";
+}
+);
+associatedMasterId = "8E001707-2680-4B42-98FE-49F8F673527D";
+components = (
+{
+alignment = -1;
+name = P;
+transform = "{1, 0, 0, 1, 5, 0}";
+},
+{
+name = _part.currencybar;
+piece = {
+LARGO = 0;
+};
+transform = "{1, 0, 0, 1, 120, 183}";
+},
+{
+name = _part.currencybar;
+piece = {
+LARGO = 0;
+};
+transform = "{1, 0, 0, 1, 101, 63}";
+},
+{
+name = _part.currencybar;
+piece = {
+LARGO = 0;
+};
+transform = "{1, 0, 0, 1, 544, 183}";
+},
+{
+name = _part.currencybar;
+piece = {
+LARGO = 0;
+};
+transform = "{1, 0, 0, 1, 525, 63}";
+}
+);
+layerId = "70D8606F-0853-49F2-9D30-1893DD89B647";
+name = "[103]";
+width = 589.96;
 }
 );
 leftKerningGroup = H;
@@ -91536,7 +91586,6 @@ PartSelection = {
 LARGO = 1;
 };
 };
-visible = 1;
 width = 20;
 },
 {
@@ -91597,14 +91646,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"432 302 LINE",
-"437 312 OFFCURVE",
-"441 328 OFFCURVE",
-"441 340 CURVE",
-"-393 340 LINE",
-"-398 329 OFFCURVE",
+"431 301 LINE",
+"436 312 OFFCURVE",
+"438 328 OFFCURVE",
+"438 339 CURVE",
+"-392 339 LINE",
+"-397 329 OFFCURVE",
 "-400 313 OFFCURVE",
-"-400 302 CURVE"
+"-400 301 CURVE"
 );
 }
 );
@@ -91613,7 +91662,59 @@ PartSelection = {
 LARGO = 2;
 };
 };
-width = 38.48;
+width = 38;
+},
+{
+associatedMasterId = "8E001707-2680-4B42-98FE-49F8F673527D";
+layerId = "2B768489-6613-47DB-BD9A-2E201AF1B2EC";
+name = Large;
+paths = (
+{
+closed = 1;
+nodes = (
+"431 301 LINE",
+"436 312 OFFCURVE",
+"438 328 OFFCURVE",
+"438 339 CURVE",
+"-392 339 LINE",
+"-397 329 OFFCURVE",
+"-400 313 OFFCURVE",
+"-400 301 CURVE"
+);
+}
+);
+userData = {
+PartSelection = {
+LARGO = 2;
+};
+};
+width = 38;
+},
+{
+associatedMasterId = "8E001707-2680-4B42-98FE-49F8F673527D";
+layerId = "CE5FC848-4BA7-4EE0-BC39-9FC0A77D3B46";
+name = Short;
+paths = (
+{
+closed = 1;
+nodes = (
+"66 301 LINE",
+"71 311 OFFCURVE",
+"73 328 OFFCURVE",
+"73 339 CURVE",
+"-27 339 LINE",
+"-32 329 OFFCURVE",
+"-35 313 OFFCURVE",
+"-35 301 CURVE"
+);
+}
+);
+userData = {
+PartSelection = {
+LARGO = 1;
+};
+};
+width = 38;
 }
 );
 leftKerningGroup = _part.currencybar;
