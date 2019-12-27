@@ -10,3 +10,6 @@
 # Name <email address>
 
 Ringo R. Seeber <ringorseeber@glyph.nyc> 
+Eduardo Tunni <edu@tipo.net.ar> 
+Yorlmar Campos 
+Martín Sesto 
