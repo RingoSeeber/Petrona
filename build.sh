@@ -6,8 +6,8 @@ rm -r $TTFDIR/*.ttf
 rm -r $VFDIR/*.ttf
 
 # Build static instances
-fontmake -g ./Sources/Petrona-ROMAN-MASTER-NEW-W.glyphs -o ttf -i --output-dir $TTFDIR -a
-fontmake -g ./Sources/Petrona-ITALIC-MASTER-NEW-W.glyphs -o ttf -i --output-dir $TTFDIR -a
+fontmake -g ./Sources/Petrona-ROMAN-MASTER.glyphs -o ttf -i --output-dir $TTFDIR -a
+fontmake -g ./Sources/Petrona-ITALIC-MASTER.glyphs -o ttf -i --output-dir $TTFDIR -a
 for f in $TTFDIR/*.ttf
 do
 	echo Processing $f
