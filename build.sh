@@ -19,7 +19,7 @@ done
 set -e
 # Build variable font
 VF_FILENAME="./Fonts/vf/Petrona[wght].ttf"
-fontmake -g ./Sources/Petrona-ROMAN-MASTER-NEW-W.glyphs -o variable --output-path $VF_FILENAME
+fontmake -g ./Sources/Petrona-ROMAN-MASTER.glyphs -o variable --output-path $VF_FILENAME
 gftools fix-dsig --autofix $VF_FILENAME
 ttfautohint $VF_FILENAME $VF_FILENAME.fix
 mv $VF_FILENAME.fix $VF_FILENAME
@@ -27,7 +27,7 @@ gftools fix-hinting $VF_FILENAME
 mv $VF_FILENAME.fix $VF_FILENAME
 
 VF_FILENAME="./Fonts/vf/Petrona-Italic[wght].ttf"
-fontmake -g ./Sources/Petrona-ITALIC-MASTER-NEW-W.glyphs -o variable --output-path $VF_FILENAME
+fontmake -g ./Sources/Petrona-ITALIC-MASTER.glyphs -o variable --output-path $VF_FILENAME
 gftools fix-dsig --autofix $VF_FILENAME
 ttfautohint $VF_FILENAME $VF_FILENAME.fix
 mv $VF_FILENAME.fix $VF_FILENAME
