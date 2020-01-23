@@ -1,5 +1,8 @@
 {
 .appVersion = "1286";
+DisplayStrings = (
+"/peso"
+);
 classes = (
 {
 automatic = 1;
