@@ -11,6 +11,7 @@ Masters: Roman Default, Roman Weight Min, Roman Weight Max, Italic Default, Ital
 Instances: Roman 100 to 900, Italic 100 to 900.
 
 Font Axes: Weight.
+.
 
 
 ![sample of fonts in use](Proofs/GlyphCo_Petrona_Animation_Variable_Weight/GlyphCo_Petrona_Animation_Variable_Weight_With.gif)
