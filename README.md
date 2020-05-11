@@ -37,3 +37,4 @@ How many characteristics can possibly be added to a font without undermining its
 ![sample of fonts in use](Proofs/GlyphCo_Petrona_Specimen_Vert/GlyphCo_Petrona_Specimen_Vert_100.jpg)
 . 
 ![sample of fonts in use](Proofs/GlyphCo_Petrona_Animation_GlyphsGrids/GlyphCo_Petrona_Animation_GlyphsGrids.gif)
+![sample of fonts in use](Proofs/GlyphCo_Petrona_Book/GlyphCo_Petrona_Book.jpg)
