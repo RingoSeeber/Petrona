@@ -15,7 +15,7 @@ Font Axes: Weight.
 
 ![sample of fonts in use](Proofs/GlyphCo_Petrona_Animation_Variable_Weight/GlyphCo_Petrona_Animation_Variable_Weight_With.gif)
 ![sample of fonts in use](Proofs/GlyphCo_Petrona_Specimen_Horiz/GlyphCo_Petrona_Specimen_Horiz-01.jpg)
-![sample of fonts in use](Proofs/PDF&JPG/ProofPetronaSpecimenHoriz3.jpg)
+![sample of fonts in use](Proofs/GlyphCo_Petrona_Specimen_Horiz/GlyphCo_Petrona_Specimen_Horiz-02.jpg)
 
 
 ## Description 
