@@ -1,6 +1,6 @@
 # Petrona Font Family (WORK IN PROGRESS)
 
-Petrona is a Typeface Family. A Variable Font. Roman and Italic. Latin Expert. 
+Petrona is a Typeface Family. Variable Font. Roman and Italic. Latin Expert. 
 
 Masters: Roman Default, Roman Weight Min, Roman Weight Max, Italic Default, Italic Weight Min, Italic Weight Max.
 
