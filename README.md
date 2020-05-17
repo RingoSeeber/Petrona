@@ -1,6 +1,6 @@
 # Petrona Font Family (WORK IN PROGRESS)
 
-Petrona is a Variable Font.
+Petrona is a Typeface Family. A Variable Font.
 
 Composed of a Roman and Italic.
 
