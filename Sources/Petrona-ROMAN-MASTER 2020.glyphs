@@ -1,13 +1,7 @@
 {
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 .appVersion = "1313";
 DisplayStrings = (
 ceda
-=======
-.appVersion = "1286";
-DisplayStrings = (
-"/peso"
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 );
 classes = (
 {
@@ -1099,10 +1093,6 @@ verticalStems = (
 90
 );
 weightValue = 80;
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
-=======
-widthValue = 100;
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 xHeight = 443;
 },
 {
@@ -21869,19 +21859,11 @@ width = 802;
 anchors = (
 {
 name = bottom;
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 position = "{387, 0}";
 },
 {
 name = top;
 position = "{387, 443}";
-=======
-position = "{386, 0}";
-},
-{
-name = top;
-position = "{386, 443}";
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
@@ -21890,7 +21872,6 @@ paths = (
 closed = 1;
 nodes = (
 "220 -12 OFFCURVE",
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 "283 24 OFFCURVE",
 "329 90 CURVE",
 "361 26 OFFCURVE",
@@ -21911,34 +21892,11 @@ nodes = (
 "695 250 OFFCURVE",
 "695 271 CURVE SMOOTH",
 "695 388 OFFCURVE",
-=======
-"284 24 OFFCURVE",
-"329 89 CURVE",
-"360 26 OFFCURVE",
-"422 -12 OFFCURVE",
-"502 -12 CURVE SMOOTH",
-"562 -12 OFFCURVE",
-"635 20 OFFCURVE",
-"694 88 CURVE",
-"682 110 LINE",
-"639 65 OFFCURVE",
-"590 39 OFFCURVE",
-"542 39 CURVE SMOOTH",
-"436 39 OFFCURVE",
-"387 124 OFFCURVE",
-"390 244 CURVE",
-"673 244 LINE SMOOTH",
-"684 244 OFFCURVE",
-"696 251 OFFCURVE",
-"696 271 CURVE SMOOTH",
-"696 388 OFFCURVE",
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 "626 462 OFFCURVE",
 "522 462 CURVE SMOOTH",
 "460 462 OFFCURVE",
 "402 427 OFFCURVE",
 "365 372 CURVE",
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 "350 436 OFFCURVE",
 "312 462 OFFCURVE",
 "244 462 CURVE SMOOTH",
@@ -21950,24 +21908,10 @@ nodes = (
 "104 313 CURVE SMOOTH",
 "116 313 OFFCURVE",
 "129 316 OFFCURVE",
-=======
-"349 436 OFFCURVE",
-"313 462 OFFCURVE",
-"244 462 CURVE SMOOTH",
-"143 462 OFFCURVE",
-"67 415 OFFCURVE",
-"67 350 CURVE SMOOTH",
-"67 327 OFFCURVE",
-"81 313 OFFCURVE",
-"104 313 CURVE SMOOTH",
-"116 313 OFFCURVE",
-"129 317 OFFCURVE",
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 "136 324 CURVE",
 "136 393 OFFCURVE",
 "172 431 OFFCURVE",
 "232 431 CURVE SMOOTH",
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 "283 431 OFFCURVE",
 "312 400 OFFCURVE",
 "308 309 CURVE SMOOTH",
@@ -21976,16 +21920,6 @@ nodes = (
 "90 212 OFFCURVE",
 "43 165 OFFCURVE",
 "43 90 CURVE SMOOTH",
-=======
-"282 431 OFFCURVE",
-"312 400 OFFCURVE",
-"309 309 CURVE SMOOTH",
-"306 262 LINE",
-"189 235 LINE SMOOTH",
-"91 212 OFFCURVE",
-"43 165 OFFCURVE",
-"43 89 CURVE SMOOTH",
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 "43 27 OFFCURVE",
 "88 -12 OFFCURVE",
 "151 -12 CURVE SMOOTH"
@@ -21995,7 +21929,6 @@ nodes = (
 closed = 1;
 nodes = (
 "145 35 OFFCURVE",
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 "118 63 OFFCURVE",
 "118 111 CURVE SMOOTH",
 "118 160 OFFCURVE",
@@ -22008,27 +21941,12 @@ nodes = (
 "286 62 OFFCURVE",
 "239 35 OFFCURVE",
 "190 35 CURVE SMOOTH"
-=======
-"119 64 OFFCURVE",
-"119 111 CURVE SMOOTH",
-"119 160 OFFCURVE",
-"148 194 OFFCURVE",
-"207 207 CURVE SMOOTH",
-"304 230 LINE",
-"303 192 OFFCURVE",
-"304 145 OFFCURVE",
-"320 110 CURVE",
-"286 62 OFFCURVE",
-"239 35 OFFCURVE",
-"189 35 CURVE SMOOTH"
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 );
 },
 {
 closed = 1;
 nodes = (
 "401 373 OFFCURVE",
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 "448 428 OFFCURVE",
 "512 428 CURVE SMOOTH",
 "576 428 OFFCURVE",
@@ -22039,18 +21957,6 @@ nodes = (
 }
 );
 width = 732;
-=======
-"447 428 OFFCURVE",
-"512 428 CURVE SMOOTH",
-"576 428 OFFCURVE",
-"619 371 OFFCURVE",
-"619 282 CURVE",
-"390 276 LINE"
-);
-}
-);
-width = 732.4054;
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 }
 );
 leftKerningGroup = a;
@@ -22415,7 +22321,6 @@ paths = (
 closed = 1;
 nodes = (
 "314 -12 OFFCURVE",
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 "388 22 OFFCURVE",
 "430 74 CURVE",
 "417 98 LINE",
@@ -22450,42 +22355,6 @@ nodes = (
 }
 );
 width = 464;
-=======
-"387 17 OFFCURVE",
-"430 65 CURVE",
-"417 94 LINE",
-"379 59 OFFCURVE",
-"326 38 OFFCURVE",
-"271 38 CURVE SMOOTH",
-"174 38 OFFCURVE",
-"121 105 OFFCURVE",
-"121 231 CURVE SMOOTH",
-"121 359 OFFCURVE",
-"168 428 OFFCURVE",
-"255 428 CURVE SMOOTH",
-"316 428 OFFCURVE",
-"350 390 OFFCURVE",
-"351 320 CURVE",
-"359 314 OFFCURVE",
-"372 310 OFFCURVE",
-"385 310 CURVE SMOOTH",
-"410 310 OFFCURVE",
-"426 325 OFFCURVE",
-"426 351 CURVE SMOOTH",
-"426 415 OFFCURVE",
-"355 462 OFFCURVE",
-"264 462 CURVE SMOOTH",
-"131 462 OFFCURVE",
-"35 356 OFFCURVE",
-"35 208 CURVE SMOOTH",
-"35 72 OFFCURVE",
-"115 -12 OFFCURVE",
-"242 -12 CURVE SMOOTH"
-);
-}
-);
-width = 463.72973;
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 }
 );
 leftKerningGroup = o;
@@ -22981,11 +22850,7 @@ position = "{281, 0}";
 },
 {
 name = center;
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 position = "{416, 557}";
-=======
-position = "{417, 558}";
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 },
 {
 name = top;
@@ -22993,11 +22858,7 @@ position = "{281, 858}";
 },
 {
 name = topright;
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 position = "{509, 482}";
-=======
-position = "{509, 481}";
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
@@ -23005,7 +22866,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 "286 -12 OFFCURVE",
 "344 23 OFFCURVE",
 "379 70 CURVE",
@@ -23036,38 +22896,6 @@ nodes = (
 "390 678 LINE",
 "378 693 LINE",
 "378 420 LINE",
-=======
-"285 -12 OFFCURVE",
-"344 22 OFFCURVE",
-"379 69 CURVE",
-"383 69 LINE",
-"383 17 OFFCURVE",
-"407 -12 OFFCURVE",
-"450 -12 CURVE SMOOTH",
-"482 -12 OFFCURVE",
-"516 3 OFFCURVE",
-"541 29 CURVE",
-"533 56 LINE",
-"521 46 OFFCURVE",
-"503 40 OFFCURVE",
-"484 40 CURVE SMOOTH",
-"466 40 OFFCURVE",
-"459 49 OFFCURVE",
-"459 72 CURVE SMOOTH",
-"459 676 LINE SMOOTH",
-"459 717 OFFCURVE",
-"441 734 OFFCURVE",
-"403 734 CURVE SMOOTH",
-"386 734 OFFCURVE",
-"363 731 OFFCURVE",
-"312 723 CURVE",
-"312 701 OFFCURVE",
-"318 690 OFFCURVE",
-"328 688 CURVE",
-"390 677 LINE",
-"378 692 LINE",
-"378 421 LINE",
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 "385 435 LINE",
 "345 454 OFFCURVE",
 "304 462 OFFCURVE",
@@ -23083,7 +22911,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 "168 39 OFFCURVE",
 "122 102 OFFCURVE",
 "122 221 CURVE SMOOTH",
@@ -23103,27 +22930,6 @@ nodes = (
 }
 );
 width = 562;
-=======
-"167 38 OFFCURVE",
-"121 102 OFFCURVE",
-"121 221 CURVE SMOOTH",
-"121 350 OFFCURVE",
-"175 424 OFFCURVE",
-"270 424 CURVE SMOOTH",
-"323 424 OFFCURVE",
-"357 409 OFFCURVE",
-"389 381 CURVE",
-"379 403 LINE",
-"379 93 LINE",
-"389 114 LINE",
-"352 68 OFFCURVE",
-"312 38 OFFCURVE",
-"253 38 CURVE SMOOTH"
-);
-}
-);
-width = 561.89189;
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 }
 );
 leftKerningGroup = o;
@@ -23424,11 +23230,7 @@ name = d;
 },
 {
 name = caroncomb.alt;
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 transform = "{1, 0, 0, 1, 509, 39}";
-=======
-transform = "{1, 0, 0, 1, 509, 38}";
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
@@ -23749,11 +23551,7 @@ width = 428;
 anchors = (
 {
 name = bottom;
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 position = "{245, 0}";
-=======
-position = "{246, 0}";
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 },
 {
 name = ogonek;
@@ -23761,11 +23559,7 @@ position = "{304, 0}";
 },
 {
 name = top;
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 position = "{245, 443}";
-=======
-position = "{246, 443}";
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
@@ -23773,7 +23567,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 "312 -12 OFFCURVE",
 "386 26 OFFCURVE",
 "429 87 CURVE",
@@ -23810,44 +23603,6 @@ nodes = (
 }
 );
 width = 468;
-=======
-"296 -12 OFFCURVE",
-"371 20 OFFCURVE",
-"429 88 CURVE",
-"417 110 LINE",
-"374 65 OFFCURVE",
-"325 39 OFFCURVE",
-"278 39 CURVE SMOOTH",
-"179 39 OFFCURVE",
-"122 116 OFFCURVE",
-"122 231 CURVE SMOOTH",
-"122 357 OFFCURVE",
-"172 428 OFFCURVE",
-"248 428 CURVE SMOOTH",
-"314 428 OFFCURVE",
-"358 365 OFFCURVE",
-"355 271 CURVE",
-"365 282 LINE",
-"93 276 LINE",
-"93 244 LINE",
-"408 244 LINE SMOOTH",
-"419 244 OFFCURVE",
-"430 251 OFFCURVE",
-"430 271 CURVE SMOOTH",
-"430 388 OFFCURVE",
-"362 462 OFFCURVE",
-"256 462 CURVE SMOOTH",
-"136 462 OFFCURVE",
-"35 350 OFFCURVE",
-"35 205 CURVE SMOOTH",
-"35 76 OFFCURVE",
-"114 -12 OFFCURVE",
-"238 -12 CURVE SMOOTH"
-);
-}
-);
-width = 467.56757;
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 }
 );
 leftKerningGroup = o;
@@ -23892,7 +23647,7 @@ name = e;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 144, 0}";
+transform = "{1, 0, 0, 1, 143, 0}";
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
@@ -23940,7 +23695,7 @@ name = e;
 },
 {
 name = brevecomb;
-transform = "{1, 0, 0, 1, 108, 0}";
+transform = "{1, 0, 0, 1, 107, 0}";
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
@@ -24044,15 +23799,11 @@ name = e;
 },
 {
 name = cedillacomb;
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 transform = "{1, 0, 0, 1, 98, 0}";
-=======
-transform = "{1, 0, 0, 1, 99, 0}";
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 },
 {
 name = brevecomb;
-transform = "{1, 0, 0, 1, 108, 0}";
+transform = "{1, 0, 0, 1, 107, 0}";
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
@@ -24158,11 +23909,7 @@ transform = "{1, 0, 0, 1, 98, 0}";
 },
 {
 name = acutecomb;
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 transform = "{1, 0, 0, 1, 143, 197}";
-=======
-transform = "{1, 0, 0, 1, 144, 197}";
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
@@ -24282,11 +24029,7 @@ transform = "{1, 0, 0, 1, 98, 0}";
 },
 {
 name = gravecomb;
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 transform = "{1, 0, 0, 1, 143, 197}";
-=======
-transform = "{1, 0, 0, 1, 144, 197}";
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
@@ -24346,11 +24089,7 @@ transform = "{1, 0, 0, 1, 98, 0}";
 },
 {
 name = hookabovecomb;
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 transform = "{1, 0, 0, 1, 141, 197}";
-=======
-transform = "{1, 0, 0, 1, 142, 197}";
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
@@ -24410,11 +24149,7 @@ transform = "{1, 0, 0, 1, 98, 0}";
 },
 {
 name = tildecomb;
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 transform = "{1, 0, 0, 1, 87, 197}";
-=======
-transform = "{1, 0, 0, 1, 88, 197}";
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
@@ -24462,11 +24197,7 @@ name = e;
 },
 {
 name = dblgravecomb;
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 transform = "{1, 0, 0, 1, 61, 0}";
-=======
-transform = "{1, 0, 0, 1, 62, 0}";
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
@@ -24514,11 +24245,7 @@ name = e;
 },
 {
 name = dieresiscomb;
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 transform = "{1, 0, 0, 1, 107, 0}";
-=======
-transform = "{1, 0, 0, 1, 108, 0}";
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
@@ -24662,7 +24389,7 @@ name = e;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 144, 0}";
+transform = "{1, 0, 0, 1, 143, 0}";
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
@@ -24758,7 +24485,7 @@ name = e;
 },
 {
 name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, 108, 0}";
+transform = "{1, 0, 0, 1, 107, 0}";
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
@@ -24866,11 +24593,7 @@ transform = "{1, 0, 0, 1, 107, 0}";
 },
 {
 name = acutecomb;
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 transform = "{1, 0, 0, 1, 143, 197}";
-=======
-transform = "{1, 0, 0, 1, 144, 197}";
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
@@ -24928,11 +24651,7 @@ transform = "{1, 0, 0, 1, 107, 0}";
 },
 {
 name = gravecomb;
-<<<<<<< HEAD:Sources/Petrona-ROMAN-MASTER 2020.glyphs
 transform = "{1, 0, 0, 1, 143, 197}";
-=======
-transform = "{1, 0, 0, 1, 144, 197}";
->>>>>>> c96ebf7571c8d521298857d50f34773e21dedd5f:Sources/Petrona-ROMAN-MASTER.glyphs
 }
 );
 layerId = "649F6AC0-C354-445A-B217-A871C51F37B2";
