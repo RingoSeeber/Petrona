@@ -1,9 +1,5 @@
 {
-.appVersion = "1340";
-DisplayStrings = (
-ceda,
-"/zero.zero/euro/franc/kip/lira/liraTurkish/naira/peso/ruble/rupeeIndian £/won ¥/dagger/daggerdbl"
-);
+.appVersion = "1286";
 classes = (
 {
 automatic = 1;
@@ -962,6 +958,14 @@ value = 0;
 {
 name = smallCapHeight;
 value = 481;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = underlineThickness;
+value = 20;
 }
 );
 descender = -270;
@@ -1059,6 +1063,14 @@ value = 0;
 {
 name = smallCapHeight;
 value = 481;
+},
+{
+name = underlinePosition;
+value = -110;
+},
+{
+name = underlineThickness;
+value = 60;
 }
 );
 descender = -270;
@@ -1144,6 +1156,14 @@ value = 0;
 {
 name = smallCapHeight;
 value = 481;
+},
+{
+name = underlinePosition;
+value = -120;
+},
+{
+name = underlineThickness;
+value = 100;
 }
 );
 descender = -270;
