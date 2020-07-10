@@ -38,3 +38,8 @@ How many characteristics can possibly be added to a font without undermining its
 ## Version History
 
 Version 2.000 (July 2020): Petrona has been completely redesigned, sports an Italic and lots of weights and is now available as a Variable Font. The Q has been redesigned, with the original swash designed being available in Stylistic Set 1.
+
+
+## Build
+
+Run `build.sh` from within the `Sources` folder. Requires `fontmake` and `gftools`.
