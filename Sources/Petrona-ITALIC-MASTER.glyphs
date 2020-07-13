@@ -1,5 +1,5 @@
 {
-.appVersion = "1286";
+.appVersion = "1342";
 classes = (
 {
 automatic = 1;
@@ -60,7 +60,7 @@ name = variableFileName;
 value = "Petrona-Italic[wght]";
 }
 );
-date = "2020-06-26 11:21:14 +0000";
+date = "2020-07-13 09:21:49 +0000";
 designer = "Ringo R. Seeber";
 designerURL = "https://www.glyph.co";
 disablesNiceNames = 1;
@@ -97916,5 +97916,5 @@ type = glyphList;
 UFOFormat = 2;
 };
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
