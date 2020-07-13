@@ -23,6 +23,10 @@ fontmake -g "../Sources/Petrona-ROMAN-MASTER.glyphs" -o variable --output-path $
 VF_FILENAME="$VFDIR/Petrona-Italic[wght].ttf"
 fontmake -g "../Sources/Petrona-ITALIC-MASTER.glyphs" -o variable --output-path $VF_FILENAME
 
+gftools fix-vf-meta "$VFDIR/Petrona[wght].ttf" "$VFDIR/Petrona-Italic[wght].ttf"
+mv "$VFDIR/Petrona[wght].ttf.fix" "$VFDIR/Petrona[wght].ttf"
+mv "$VFDIR/Petrona-Italic[wght].ttf.fix" "$VFDIR/Petrona-Italic[wght].ttf"
+
 for f in $VFDIR/*.ttf
 do
 	echo Processing $f
@@ -31,8 +35,6 @@ do
 	mv $f.fix $f
 	gftools fix-unwanted-tables $f
 	gftools fix-hinting $f
-	mv $f.fix $f
-	gftools fix-vf-meta $f
 	mv $f.fix $f
 done
 
