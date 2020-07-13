@@ -32,6 +32,8 @@ do
 	gftools fix-unwanted-tables $f
 	gftools fix-hinting $f
 	mv $f.fix $f
+	gftools fix-vf-meta $f
+	mv $f.fix $f
 done
 
 # Clean up
