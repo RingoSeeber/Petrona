@@ -18,7 +18,15 @@ Font Axes: Weight.
 
 ## Description 
 
-How many characteristics can be added to a typeface without undermining its purpose within the text-type genre? Petrona is inspired by the cook in every home, who playfully maneuvers ingredients with personal touches without losing the original recipe’s essence. This design has been created “in the kitchen,” with sharp elements that forge its structure and gestural strokes for softer finishing touches. Isolated, its glyphs are just like ingredients. Caps with heavy asymmetric serifs and arms of inverted angles combine for a sharp flavor. Lowercases with big x-height, pronounced ascenders, and soft curves of low contrast provide a complementary aesthetic. When forming words, the fusion of these different ingredients offers distinctive notes. And, they harmonically mingle into paragraphs with a new visual menu. Petrona has all the characteristics of a font for editorial use, from headlines to body text. It’s also intended to be applied in pages with tabular organizations, like designs with recipes, ingredients, quantities, or similar structures. This is why connoisseurs recommend it for culinary texts. However, since taste and creativity are personal, Petrona offers the freedom for any person to apply it according to their individual preferences. Awards/Accomplishments: Tipos Latinos. 
+Petrona has evolved to offer a comprehensive range of weights, corresponding italics, an extended set of glyphs to cover 200+ languages. It is also available as a Variable Font. 
+
+This complete version includes a full set of small caps, ligatures, alternates, and all kinds of numerals, fractions, punctuations, symbols, and currencies. It provides all glyphs of level Latin Expert (typefaces that supply everything).
+
+The previous swashy Q is still available, in Stylistic Set 1.
+
+Petrona’s personality is an answer to how many characteristics can be added to a typeface without undermining its purpose within the text-type genre. Petrona playfully maneuvers plenty of personal touches, without losing the essence of a design intended for legibility in digital and print, from headlines to body text. Uppercase with heavy asymmetric serifs and arms of inverted angles combines with lowercase of big x-height, pronounced ascenders, and soft curves of low contrast.
+
+The Petrona project is led by Ringo R. Seeber from Glyph Co, based in Brooklyn, NY. 
 
 ![sample of fonts in use](Proofs/GlyphCo_Petrona_Animation_3gs/GlyphCo_Petrona_Animation_3gs_Without.gif)
 . 
