@@ -18,13 +18,15 @@ Font Axes: Weight.
 
 ## Description 
 
-Petrona has evolved to offer a comprehensive range of weights, corresponding italics, an extended set of glyphs to cover 200+ languages. It is also available as a Variable Font. 
+Petrona’s personality is an answer to how many characteristics can be added to a typeface without undermining its purpose within the text-type genre. Petrona playfully maneuvers plenty of personal touches, without losing the essence of a design intended for legibility in digital and print media, from headlines to body text. Uppercase glyphs have heavy asymmetric serifs and arms with inverted angles, which combine with lowercase designs that share a big x-height, pronounced ascenders, and soft curves of low stroke contrast.
 
-This complete version includes a full set of small caps, ligatures, alternates, and all kinds of numerals, fractions, punctuations, symbols, and currencies. It provides all glyphs of level Latin Expert (typefaces that supply everything).
+First published in Google Fonts in November 2011 as a single style Roman design, it was completely redrawn in 2019 and 2020. It has evolved, and now offers a comprehensive range of weights, a complete set of corresponding italics, and an extended glyph set that supports over 200 Latin languages. A full set of small caps, plus ligatures, alternates, and all kinds of numerals, fractions, punctuations, symbols, and currencies, are included.
 
-The previous swashy Q is still available, in Stylistic Set 1.
+As a variable font, it has a Weight axis in both the roman and italic files.
 
-Petrona’s personality is an answer to how many characteristics can be added to a typeface without undermining its purpose within the text-type genre. Petrona playfully maneuvers plenty of personal touches, without losing the essence of a design intended for legibility in digital and print, from headlines to body text. Uppercase with heavy asymmetric serifs and arms of inverted angles combines with lowercase of big x-height, pronounced ascenders, and soft curves of low contrast.
+The previous swashy Q is still available, found in Stylistic Set 1.
+
+It is now a typeface that supplies everything needed for fine text typography.
 
 The Petrona project is led by Ringo R. Seeber from Glyph Co, based in Brooklyn, NY. 
 
